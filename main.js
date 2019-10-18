@@ -1,5 +1,8 @@
+import {config} from './config'
+
 const {app, BrowserWindow, ipcMain, Tray} = require('electron');
 const path = require('path');
+const log = require('electron-log');
 
 let tray = undefined
 let window = undefined
