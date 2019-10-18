@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/priyaaank/gitlab-tray#readme",
   "dependencies": {
-    "electron": "^6.0.12"
+    "auto-launch": "^5.0.5",
+    "electron-log": "^3.0.8",
+    "electron-reload": "^1.2.2",
+    "js-yaml": "^3.13.1"
   }
 }
