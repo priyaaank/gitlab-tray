@@ -17,13 +17,7 @@
     "url": "https://github.com/priyaaank/gitlab-tray/issues"
   },
   "homepage": "https://github.com/priyaaank/gitlab-tray#readme",
-  "devDependencies": {
-    "electron-packager": "^7.3.0",
-    "electron-prebuilt": "^1.2.7",
-    "electron-prebuilt-compile": "^1.7.9"
-  },
   "dependencies": {
-    "auto-launch": "^5.0.5",
-    "electron-reload": "^1.2.2"
+    "electron": "^6.0.12"
   }
 }
