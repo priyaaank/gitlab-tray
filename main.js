@@ -1,5 +1,7 @@
 
 import {config} from './config'
+import {update} from './gitlab'
+
 const {app, BrowserWindow, ipcMain, Tray} = require('electron');
 const path = require('path');
 
