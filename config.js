@@ -23,7 +23,7 @@ config.gitlabs = config.gitlabs.map((gitlab) => {
     }
   }
 })
-config.colors = config.colors || {})
+config.colors = (config.colors || {})
 
 function expandTilde(path) {
   return path.replace(/^~($|\/|\\)/, `${os.homedir()}$1`)
