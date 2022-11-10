@@ -27,7 +27,7 @@
     "axios": "^0.19.0",
     "babel-eslint": "^10.0.3",
     "babelify": "^10.0.0",
-    "electron": "^6.0.12",
+    "electron": "^18.3.7",
     "electron-log": "^3.0.8",
     "electron-reload": "^1.2.2",
     "esm": "^3.2.25",
